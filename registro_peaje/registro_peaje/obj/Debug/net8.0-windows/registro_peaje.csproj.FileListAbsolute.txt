@@ -1,0 +1,16 @@
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\bin\Debug\net8.0-windows\registro_peaje.exe
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\bin\Debug\net8.0-windows\registro_peaje.deps.json
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\bin\Debug\net8.0-windows\registro_peaje.runtimeconfig.json
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\bin\Debug\net8.0-windows\registro_peaje.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\bin\Debug\net8.0-windows\registro_peaje.pdb
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.Form1.resources
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.csproj.GenerateResource.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.AssemblyInfoInputs.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.AssemblyInfo.cs
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.csproj.CoreCompileInputs.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\refint\registro_peaje.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.pdb
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\registro_peaje.genruntimeconfig.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final\registro_peaje\registro_peaje\obj\Debug\net8.0-windows\ref\registro_peaje.dll
